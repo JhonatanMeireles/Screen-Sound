@@ -1,0 +1,15 @@
+C:\Users\jhona\OneDrive\Documentos\Estudos\ALURA_UX\Curso de C#\ProjetoMusical\ProjetoMusical\bin\Debug\net7.0\ProjetoMusical.exe
+C:\Users\jhona\OneDrive\Documentos\Estudos\ALURA_UX\Curso de C#\ProjetoMusical\ProjetoMusical\bin\Debug\net7.0\ProjetoMusical.deps.json
+C:\Users\jhona\OneDrive\Documentos\Estudos\ALURA_UX\Curso de C#\ProjetoMusical\ProjetoMusical\bin\Debug\net7.0\ProjetoMusical.runtimeconfig.json
+C:\Users\jhona\OneDrive\Documentos\Estudos\ALURA_UX\Curso de C#\ProjetoMusical\ProjetoMusical\bin\Debug\net7.0\ProjetoMusical.dll
+C:\Users\jhona\OneDrive\Documentos\Estudos\ALURA_UX\Curso de C#\ProjetoMusical\ProjetoMusical\bin\Debug\net7.0\ProjetoMusical.pdb
+C:\Users\jhona\OneDrive\Documentos\Estudos\ALURA_UX\Curso de C#\ProjetoMusical\ProjetoMusical\obj\Debug\net7.0\ProjetoMusical.csproj.AssemblyReference.cache
+C:\Users\jhona\OneDrive\Documentos\Estudos\ALURA_UX\Curso de C#\ProjetoMusical\ProjetoMusical\obj\Debug\net7.0\ProjetoMusical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\OneDrive\Documentos\Estudos\ALURA_UX\Curso de C#\ProjetoMusical\ProjetoMusical\obj\Debug\net7.0\ProjetoMusical.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Documentos\Estudos\ALURA_UX\Curso de C#\ProjetoMusical\ProjetoMusical\obj\Debug\net7.0\ProjetoMusical.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Documentos\Estudos\ALURA_UX\Curso de C#\ProjetoMusical\ProjetoMusical\obj\Debug\net7.0\ProjetoMusical.csproj.CoreCompileInputs.cache
+C:\Users\jhona\OneDrive\Documentos\Estudos\ALURA_UX\Curso de C#\ProjetoMusical\ProjetoMusical\obj\Debug\net7.0\ProjetoMusical.dll
+C:\Users\jhona\OneDrive\Documentos\Estudos\ALURA_UX\Curso de C#\ProjetoMusical\ProjetoMusical\obj\Debug\net7.0\refint\ProjetoMusical.dll
+C:\Users\jhona\OneDrive\Documentos\Estudos\ALURA_UX\Curso de C#\ProjetoMusical\ProjetoMusical\obj\Debug\net7.0\ProjetoMusical.pdb
+C:\Users\jhona\OneDrive\Documentos\Estudos\ALURA_UX\Curso de C#\ProjetoMusical\ProjetoMusical\obj\Debug\net7.0\ProjetoMusical.genruntimeconfig.cache
+C:\Users\jhona\OneDrive\Documentos\Estudos\ALURA_UX\Curso de C#\ProjetoMusical\ProjetoMusical\obj\Debug\net7.0\ref\ProjetoMusical.dll
