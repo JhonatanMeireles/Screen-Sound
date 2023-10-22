@@ -109,13 +109,20 @@ void RegistrarBanda()
 void MostrarBandasRegistradas() 
 {
     Console.Clear();
-    Console.WriteLine("********************************************");
+    Console.WriteLine("************************************");
     Console.WriteLine("Exibindo todas as bandas registradas");
-    Console.WriteLine("********************************************\n\n");
+    Console.WriteLine("************************************\n\n");
     for(int i = 0; i < listaDasBandas.Count; i++ )
     {
-        Console.WriteLine($"Banda{i+1}: {listaDasBandas[i]}");
+        Console.WriteLine($"Banda {i+1}: {listaDasBandas[i]}");
     }
+
+    /* Como eu vou usar o índice utilizarei o loop for mesmo
+    foreach(string banda in listaDasBandas)
+    {
+        Console.WriteLine($"Banda : {banda}");
+    }
+    */
     Console.WriteLine("\n\nDigite uma tecla para voltar ao menu principal.");
     Console.ReadKey();
     Console.Clear();
