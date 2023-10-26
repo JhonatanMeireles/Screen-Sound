@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhona\\OneDrive\\Documentos\\Estudos\\ALURA_UX\\Curso de C#\\ProjetoMusical\\ProjetoMusical\\ProjetoMusical.csproj",
-      "projectName": "ProjetoMusical",
-      "projectPath": "C:\\Users\\jhona\\OneDrive\\Documentos\\Estudos\\ALURA_UX\\Curso de C#\\ProjetoMusical\\ProjetoMusical\\ProjetoMusical.csproj",
+      "projectUniqueName": "C:\\Users\\jhona\\OneDrive\\Documentos\\Estudos\\ALURA_UX\\Curso de C#\\ProjetoMusical\\ProjetoMusical\\ScreenSound.csproj",
+      "projectName": "ScreenSound",
+      "projectPath": "C:\\Users\\jhona\\OneDrive\\Documentos\\Estudos\\ALURA_UX\\Curso de C#\\ProjetoMusical\\ProjetoMusical\\ScreenSound.csproj",
       "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jhona\\OneDrive\\Documentos\\Estudos\\ALURA_UX\\Curso de C#\\ProjetoMusical\\ProjetoMusical\\obj\\",
       "projectStyle": "PackageReference",
