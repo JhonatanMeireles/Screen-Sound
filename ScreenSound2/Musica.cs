@@ -8,10 +8,6 @@
         $"A música {Nome} pertence à banda {Artista}.";
 
 
-    public int a { get; set; }
-    public int b { get; set;  }
-
-    public int Somar => a + b;
     public void ExibirFichaTecnica()
     {
         Console.WriteLine($"Nome: {Nome}");
