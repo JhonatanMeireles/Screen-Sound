@@ -1,7 +1,15 @@
 ﻿class Album 
 {
     private List<Musica> musicas = new List<Musica>();
-    public String Nome { get; set; }
+    
+    public Album (string nome, Genero generoMusical)
+    {
+        Nome = nome;
+        GeneroMusical = generoMusical;
+    }
+    public String Nome { get;  }
+
+    public Genero GeneroMusical { get; }
     public int DuracaoTotal => musicas.Sum(m => m.Duracao);
 
     public void AdicionarMusica(Musica musica) 
@@ -20,5 +28,12 @@
         }
 
         Console.WriteLine($"Para ouvir esta albúm inteiro você precisará de {DuracaoTotal} segundos.");
+        
+    }
+
+    public void ExibirGenero()
+    {
+        Console.WriteLine($"O album {Nome} é do gênero {GeneroMusical}");
+
     }
 }
