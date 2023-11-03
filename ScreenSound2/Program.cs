@@ -1,32 +1,5 @@
-﻿Banda queen = new Banda("Queen");
+﻿Episodio ep1 = new(1, "Técnicas de Facilicitação", 45);
 
-Album albumDoQueen = new Album("A night at the opera", new Genero("Rock") );
-
-
-Musica musica1 = new Musica(queen, "Love of my life")
-
-{
-    Duracao = 213,
-    Disponivel = true,
-
-};
-
-Musica musica2 = new Musica(queen, "Bohemian Rhapsody")
-{
-    Duracao = 354,
-    Disponivel = false,
-
-};
-
-
-
-albumDoQueen.AdicionarMusica(musica1);
-albumDoQueen.AdicionarMusica(musica2);
-queen.AdicionarAlbum(albumDoQueen);
-musica1.ExibirFichaTecnica();
-musica2.ExibirFichaTecnica();
-albumDoQueen.ExibirMusicasDoAlbum();
-albumDoQueen.ExibirGenero();
-
-
-queen.ExibirDiscografia();
+ep1.AdicionarConvidados("Bernardo");
+ep1.AdicionarConvidados("Érika");
+Console.WriteLine(ep1.Resumo);
